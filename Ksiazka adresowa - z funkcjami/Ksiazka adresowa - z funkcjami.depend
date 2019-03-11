@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551733762 source:c:\nauka c++\ksiazka adresowa - z funkcjami\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<string>
+

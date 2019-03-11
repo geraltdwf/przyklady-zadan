@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1550168831 source:c:\nauka c++\lista z wyswietlaniem\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+

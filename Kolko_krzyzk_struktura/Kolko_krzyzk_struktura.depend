@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552268660 source:c:\nauka c++\programy jednokienkowe\kolko_krzyzk_struktura\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+

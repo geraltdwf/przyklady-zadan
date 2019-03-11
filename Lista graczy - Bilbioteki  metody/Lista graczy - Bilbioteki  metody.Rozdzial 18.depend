@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551735201 source:c:\nauka c++\lista graczy - bilbioteki  metody.rozdzial 18\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<time.h>
+
